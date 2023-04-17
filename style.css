@@ -1,0 +1,87 @@
+
+body{
+margin: 0;
+padding: 0;
+}
+
+.na-h{
+    letter-spacing: 1px;
+    font-family: Helvetica;
+}
+
+.na-hs{
+    font-family: Helvetica;
+    font-size: .9rem;
+}
+
+.nav-clr{
+    background-color: gray;
+}
+
+.card-clr{
+    background-color:#f0f0f0;
+}
+
+.ct{
+    font-size: .8rem;
+    font-weight: lighter;
+}
+
+.im-ct{
+    font-size: .7rem;
+    font-weight: lighter;
+}
+
+.a{
+ color: black;
+ text-decoration: none;
+ font-size: .6rem;
+ line-height: 2rem;
+}
+
+.a:hover,.lin:hover, .li:hover{
+    color: black;
+    text-decoration: underline;
+}
+
+.hd{
+    font-weight: bold;
+    font-size: .8rem;
+    letter-spacing: 1px;
+}
+
+.im-c-lin{
+    font-weight: bold;
+    font-size: .7rem;
+    letter-spacing: 1px;
+}
+
+.im-hd{
+    font-weight: bold;
+    font-size: .8rem;
+    letter-spacing: 1px;
+}
+
+.lin{
+    color: black;
+    text-decoration:none;
+    letter-spacing: 1px;
+}
+
+.fcs{
+    margin-top: 4rem;
+}
+
+li{
+    list-style: none;
+}
+
+.fps{
+    padding-left: 2rem;
+}
+
+
+
+
+
+
